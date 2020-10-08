@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="alexa_siri">Alexa Siri</string>
+    <string name="done">DONE</string>
+    <string name="nick_name">Nick Name</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="hi_my_name_is_alexa_n_ni_love_fish_n_nthe_kind_that_is_alive_and_swims_around_in_an_aquarium_or_river_or_a_lake_and_definitely_the_ocean_nfun_fact_is_that_i_have_several_aquariums_and_also_a_river_n_ni_like_eating_fish_too_raw_fish_grilled_fish_smoked_fish_poached_fish_not_so_much_nand_sometimes_i_even_go_fishing_nand_even_less_sometimes_i_actually_catch_something_n_nonce_when_i_was_camping_in_canada_and_very_hungry_i_even_caught_a_large_salmon_with_my_hands_n_ni_ll_be_happy_to_teach_you_how_to_make_your_own_aquarium_nyou_should_ask_someone_else_about_fishing_though_n_n">Hi, my name is Alexa. \n\nI love fish. \n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean. \nFun fact is that I have several aquariums and also a river. \n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much. \nAnd sometimes I even go fishing. \nAnd even less sometimes, I actually catch something. \n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands. \n\nI\'ll be happy to teach you how to make your own aquarium. \nYou should ask someone else about fishing, though.\n\n</string>
 </resources>
